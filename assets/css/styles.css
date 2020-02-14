@@ -1,0 +1,19 @@
+.jumbo-bg-image {
+  min-height: 450px;
+}
+
+.jumbo-bg {
+  background: rgba(0,0,0,0.4);
+  min-height: 450px;
+}
+
+@font-face {
+  font-family: AudioWide;
+  src: url(../../font/audiowide-regular.ttf);
+}
+
+.navbar-brand {
+  font-family: AudioWide, Arial !important;
+  /*color: lightgray !important;*/
+}
+
